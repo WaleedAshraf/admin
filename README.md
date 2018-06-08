@@ -1,16 +1,3 @@
-# Administration for TSC + Community Committee collaborative efforts
-This repository is formal efforts of the Node.js project that are overseen and require input from both the [TSC](https://github.com/nodejs/TSC) and [CommComm](https://github.com/nodejs/community-committee).
-
-Initiatives that are overseen here:
-- [Travel Fund](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md)
-
-Repositories that fall under the responsibility of the TSC and CommComm:
-
-- This repo
-- [Getting Started](https://github.com/nodejs/getting-started)
-- [Collaboration Summit](https://github.com/nodejs/summit)
-- The private [Moderation](https://github.com/nodejs/moderation) repo (Collaborators-only access)
-
 ## Governance and Current Members
 
 The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC) and [CommComm](https://github.com/nodejs/community-committee) as collaborative groups. Any action requiring consensus and voting will abide by the following process.
